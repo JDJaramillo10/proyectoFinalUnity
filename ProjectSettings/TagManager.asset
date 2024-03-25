@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemigo
+  - Suelo
+  - GarbageCollector
+  - Borde
+  - DeathZone
+  - ItemGood
+  - Final
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Suelo
+  - Water
+  - UI
+  - Jugador
+  - Enemigos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 1235081635
+    locked: 0
+  - name: Suelo
+    uniqueID: 3547745939
+    locked: 0
+  - name: Enemigos
+    uniqueID: 4169989103
+    locked: 0
+  - name: Jugador
+    uniqueID: 1708886505
+    locked: 0
+  - name: Detalles
+    uniqueID: 3238899387
+    locked: 0
