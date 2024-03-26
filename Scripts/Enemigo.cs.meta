@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 850237d6040e2784a83fa830684d9f6a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - efectoMuerte: {fileID: 2430243149715231613, guid: dd67df7feff41944ab3e0bdd8b17b6ba, type: 3}
+  - myGameManager: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
